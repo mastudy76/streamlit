@@ -1,3 +1,4 @@
+# $ pip freeze | grep yfinance
 import imp
 import pandas as pd 
 import yfinance as yf
